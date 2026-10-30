@@ -15,3 +15,11 @@ MIT 18.01 + 8.01 self-study
 ## Action Plan (The Fix)
 - I will switch the order: watch a 10-minute beginner video on Khan Academy or YouTube *first*, then watch the MIT lecture the next day.
 - I will study earlier in the day when I have energy.
+## Action Plan (The Fix)
+- I will switch the order: watch beginner videos first, then the MIT lecture.
+- I will study earlier in the day when I have energy.
+
+## Resource Update (Today)
+- **Realization:** It has been 2 years since high school, so I need a math refresher before diving into MIT-level calculus.
+- **Action:** Downloaded a Calculus 1 PDF note to review the basics. 
+- **Next step:** Skim the PDF to review algebra/trig/limits, then try the first 15 mins of the MIT lecture again.
