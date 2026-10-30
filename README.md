@@ -1,7 +1,7 @@
 # Phase1-foundations
 MIT 18.01 + 8.01 self-study
 # Week 01
-- **Date:** [Put today's date here]
+- **29/10/2026:** [Put today's date here]
 - **Status:** Adjusted study strategy.
 
 ## Lecture 1 Notes
