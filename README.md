@@ -1,7 +1,7 @@
 # Phase1-foundations
-MIT 18.01 + 8.01 self-study
+#MIT 18.01 + 8.01 self-study
 # Week 01
-- **29/10/2026:** [Put today's date here]
+- **29/10/2026:** 
 - **Status:** Adjusted study strategy.
 
 ## Lecture 1 Notes
@@ -14,8 +14,7 @@ MIT 18.01 + 8.01 self-study
 
 ## Action Plan (The Fix)
 - I will switch the order: watch a 10-minute beginner video on Khan Academy or YouTube *first*, then watch the MIT lecture the next day.
-- I will study earlier in the day when I have energy.
-- 
+- I will study earlier in the day when I have energy. 
 ## Resource Update (Today)
 - **Realization:** It has been 2 years since high school, so I need a math refresher before diving into MIT-level calculus.
 - **Action:** Downloaded a Calculus 1 PDF note to review the basics. 
